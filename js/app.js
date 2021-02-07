@@ -1,5 +1,5 @@
 let particles;
-let particlesNum = 31;
+let particlesNum = 9;
 let coronaImg;
 let maskImg;
 let c;
